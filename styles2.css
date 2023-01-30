@@ -1,0 +1,136 @@
+body{
+    
+    background:#f0f2f5;
+}#container {
+
+    justify-content: center;
+    align-items: center;
+}
+.try{
+    color:rgb(85, 85, 207);
+    font-size:30px;
+}
+.f {
+    color:white;
+    background:rgb(85, 85, 207);
+}
+p{
+    font-size: 25px;
+    font-weight: bold;
+    width: auto;
+    
+}
+.subcontainer {
+
+    width:390px;
+    background:white;
+    height:290px;
+    border-radius:10px;
+    box-shadow: 0.9px 0px 4px 0.5px rgb(233, 229, 229);
+}
+.pass {
+    outline:none;
+    width:170px;
+    height:30px;
+    border-radius:6px;
+    font-size:20px;
+    border:2px solid #dddfe2;
+    font-family:inherit;
+}
+.pass:hover {
+    border-color: rgb(85, 85, 207);
+}
+.from {
+    color:rgb(85, 85, 207);
+
+}
+.f3 {
+color:black;
+
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.email {
+    outline:none;
+    width:350px;
+    height:30px;
+    border-radius:6px;
+    font-size:20px;
+    border:2px solid #dddfe2;
+    font-family:inherit;
+}
+.email:hover {
+    border-color: rgb(85, 85, 207);
+}
+::-webkit-input-placeholder {
+    font-size:18px;
+    padding:0px 0px 0px 8px;
+}
+.btn {
+    margin-top:20px;
+    width:300px;
+    height: 35px;
+    border-radius: 5px;
+    border:1px solid;
+    border-color:white;
+    background:rgb(85, 85, 207);
+    color:white;
+    font-size:17px;
+    cursor: pointer;
+    opacity:0.9;
+    transition: 0.5s;
+
+}
+.img2 {
+  
+    height:40px;
+    width:25px;
+    color:rgb(85, 85, 207);
+}
+.menu {
+    
+    margin-left:490px;
+    height: 50px;
+    width: 27px;
+    color:rgb(85, 85, 207);
+    cursor:pointer;
+}
+.btn:hover {
+    opacity:1;
+    transform: translateY(1px);
+}
+span{
+    cursor:pointer;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.img {
+    width:20px;
+    height:20px;
+    rotate: -90deg;
+    margin-left: 340px;
+    cursor:pointer;
+    transition:0.5s;
+}
+.f2 {
+    font-size:20px;
+}
+.gender {
+    padding:10px 10px 10px 10px;
+}
+.div5 {
+    display:none;
+    transition: 0.5s;
+    margin-top:200px;
+    height:150px;
+    background:white;
+    border:2px solid;
+    box-shadow:0px 0px 10px 2px white;
+    width:400px;
+    border-radius:10px;
+    border:2px solid red;
+}
+.icon5 {
+    width:50px;
+    height:50px;
+    color:red;
+}
